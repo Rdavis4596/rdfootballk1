@@ -5,3 +5,9 @@ Three ways generative AI could be useful in finance and business:
 - **Financial reporting & analysis:** AI can quickly summarize financial statements, flag trends, and generate narrative reports, saving analysts hours of manual work.
 - **Partnership and outreach communications:** AI can draft personalized partnership proposals, follow-up emails, and pitch decks tailored to specific audiences.
 - **Operations planning:** AI can help small business operators like gym managers build schedules, forecast demand, and identify inefficiencies in workflows.
+---
+
+*Note: This file was created with the assistance of Claude (an AI assistant).  
+**Prompt used:** "okay so what is next for step 3 what do i do next" / "Draft assistant_draft.md content about Robinson Davis and finance/business."  
+**What the assistant did well:** It structured the content clearly, matched a professional tone, and covered all the required sections without me having to specify each one.  
+**What I needed to clarify or adjust:** I had to provide my personal background details (my roles at Baltimore Homecoming, JHU, and the gym), since the assistant couldn't know those on its own.*
